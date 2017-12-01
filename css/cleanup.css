@@ -20,4 +20,6 @@
   display: none;
 }
 
-#wall .parent 
+#wall .parent:nt-child(2) {
+  display: none;
+}

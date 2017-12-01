@@ -16,7 +16,7 @@ div#wall #tag-3.slick.wicked {
   display: none;
 }
 
-#wall .parent:first-child {
+div#wall .parent:first-child {
   display: none;
 }
 
